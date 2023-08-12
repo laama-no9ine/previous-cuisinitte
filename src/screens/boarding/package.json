@@ -1,0 +1,8 @@
+{
+  "name": "@screens/Boarding",
+  "description": "description",
+  "authors": "author",
+  "version": "1.0.0",
+  "main": "index.tsx",
+  "dependencies": {}
+}
